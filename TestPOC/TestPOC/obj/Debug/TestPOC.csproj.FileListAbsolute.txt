@@ -1,0 +1,6 @@
+C:\Jitu\Utility\TestPOC\TestPOC\bin\Debug\TestPOC.exe.config
+C:\Jitu\Utility\TestPOC\TestPOC\bin\Debug\TestPOC.exe
+C:\Jitu\Utility\TestPOC\TestPOC\bin\Debug\TestPOC.pdb
+C:\Jitu\Utility\TestPOC\TestPOC\obj\Debug\TestPOC.csprojResolveAssemblyReference.cache
+C:\Jitu\Utility\TestPOC\TestPOC\obj\Debug\TestPOC.exe
+C:\Jitu\Utility\TestPOC\TestPOC\obj\Debug\TestPOC.pdb
