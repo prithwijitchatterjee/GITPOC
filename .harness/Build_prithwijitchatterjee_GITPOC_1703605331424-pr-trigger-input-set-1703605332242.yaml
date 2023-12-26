@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_prithwijitchatterjee_GITPOC_1703605331424-pr-trigger-input-set
+  identifier: Build_prithwijitchatterjee_GITPOC_1703605331424prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_prithwijitchatterjee_GITPOC_1703605331424
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
