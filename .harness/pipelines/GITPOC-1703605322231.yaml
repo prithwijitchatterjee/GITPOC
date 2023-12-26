@@ -24,10 +24,19 @@ pipeline:
                     command: echo hello world
                   timeout: ""
                   type: Run
+              - step:
+                  type: Run
+                  name: install-node
+                  identifier: installnode
+                  spec:
+                    connectorRef: account.harnessImage
+                    image: node:current-alpine3.18
+                    shell: Sh
+                    command: npm install
           platform:
-            arch: Amd64
             os: Linux
+            arch: Amd64
           runtime:
-            spec: {}
             type: Cloud
+            spec: {}
         type: CI
